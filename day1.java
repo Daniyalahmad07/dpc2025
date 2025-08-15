@@ -1,6 +1,11 @@
 import java.util.*;
 class day1{
-
+//Sort an Array of 0s, 1s, and 2s
+/*Constraints:
+The input array may have up to 105 elements.
+The values in the array are limited to 0, 1, and 2.
+The sorting algorithm must operate in linear time (i.e., O(n)) and in-place (i.e., without using extra space beyond a few variables).
+*/
 
     public static void soort(int arr[]){
         int low=0;int mid=0;int high=arr.length-1;
