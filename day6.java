@@ -12,7 +12,7 @@ The input array can contain both positive and negative integers, including zero.
 
 import java.util.*;
 
-public class day61 {
+public class day6 {
 
     public static List<int[]> findSubArrWithSumZero(int[] arr) {
         List<int[]> subArr = new ArrayList<>();
